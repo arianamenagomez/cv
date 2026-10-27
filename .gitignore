@@ -1,0 +1,14 @@
+# Private documents (personal data)
+*.docx
+
+# Design source files (too heavy, not needed by the site)
+*.ai
+*.pdf
+
+# Local tooling
+.atl/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
